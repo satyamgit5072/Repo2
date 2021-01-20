@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is 72DB-AF44
-
- Directory of C:\Users\sbojanki\Desktop\MyProject
-
-20-01-2021  10:57    <DIR>          .
-20-01-2021  10:57    <DIR>          ..
-20-01-2021  10:57                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  196,760,469,504 bytes free
+change 1
